@@ -1,0 +1,36 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "app/models/recipe.rb",
+            "group": "Default"
+        },
+        {
+            "filePath": "app/models/user.rb",
+            "group": "Default"
+        },
+        {
+            "filePath": "app/controllers/recipes_controller.rb",
+            "group": "Default"
+        },
+        {
+            "filePath": "app/controllers/users_controller.rb",
+            "group": "Default"
+        },
+        {
+            "filePath": "config/routes.rb",
+            "group": "Default"
+        },
+        {
+            "filePath": "app/controllers/application_controller.rb",
+            "group": "Default"
+        },
+        {
+            "filePath": "README.md",
+            "group": "Default"
+        },
+        {
+            "filePath": "app/controllers/sessions_controller.rb",
+            "group": "Default"
+        }
+    ]
+}
